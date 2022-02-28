@@ -1,7 +1,7 @@
 div  {   
    display:flex;
    justify-content: center;
-   
+   background-color: rgb(88, 186, 231);
    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
       
 }
@@ -39,49 +39,44 @@ p{
 {
    border: 5px solid rgb(88, 186, 231);
    padding: 10px;
-   margin-left: 20%;
-   size: 10%;
-   width: 10%;
+   margin-left: 400px;
+   size: 100px;
+   width: 200px;
 }
 .pec
 {
     border: 5px solid rgb(88, 186, 231);
    padding: 10px;
-   margin-left: 10%; 
-   size: 12%;
-   width: 12%;
+   margin-left: 180px; 
+   width: 260px;
 }
 .cap
 {
     border: 5px solid rgb(88, 186, 231);
    padding: 10px;
-   margin-left: 10%; 
-   size: 12%;
-   width: 12%;
+   margin-left: 180px; 
+   width: 300px;
 }
 .dra
 {
     border: 5px solid rgb(88, 186, 231);
    padding: 10px;
-   margin-left: 20%;
-   size: 12%;
-   width: 12%;
+   margin-left: 250px; 
+   width: 300px;
 }
 .kor
 {
     border: 5px solid rgb(88, 186, 231);
    padding: 10px;
-   margin-left: 10%;
-   size: 12%;
-   width: 12%;
+   margin-left: 180px; 
+   width: 300px;
 }
 .mal
 {
     border: 5px solid rgb(88, 186, 231);
    padding: 10px;
-   margin-left: 10%;
-   size: 12%;
-   width: 12%;
+   margin-left: 180px; 
+   width: 350px;
 }
 .tab{
     text-align: center;
@@ -95,21 +90,4 @@ td{
 }
 th{
     background-color:rgb(88, 186, 231) ;
-}
-form
-{
-    text-align: center;
-}
-.tlacitka
-{
-   display:flex;
-   justify-content: center;
-   background-color: rgb(88, 186, 231);
-   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-}
-textarea
-{
-    text-align: left;
-    size: 300px;
-    border: black solid 3px;
 }
